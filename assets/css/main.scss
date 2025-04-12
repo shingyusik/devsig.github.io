@@ -48,7 +48,7 @@ html {
     }
 }
 
-// Remove TOC border
+// Remove TOC border and adjust color
 .toc {
   border: none !important;
   box-shadow: none !important;
@@ -56,5 +56,13 @@ html {
   .toc__menu {
     border: none !important;
     box-shadow: none !important;
+
+    a {
+      color: #7a7a7a !important;
+      
+      &:hover {
+        color: #333 !important;
+      }
+    }
   }
 }
