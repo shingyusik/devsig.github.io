@@ -511,10 +511,10 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    // color: #fff;
-    color: rgb(54, 54, 54);
+    color: #fff;
+    // color: rgb(54, 54, 54);
     font-size: $type-size-6;
-    background: $primary-color;
+    background: rgb(54, 54, 54);
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
   }
