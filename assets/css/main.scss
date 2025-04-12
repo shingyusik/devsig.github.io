@@ -51,13 +51,12 @@ html {
 // Remove TOC border
 .sidebar__right {
   .toc {
-    // background: rgb(200, 200, 200) !important;
-    background: transparent !important;
+    background: rgba(75, 75, 75, 0.7) !important;
     border: none !important;
     box-shadow: none !important;
     
-    // .toc__menu {
-    //   background: rgb(200, 200, 200) !important;
-    // }
+    .toc__menu {
+      background: rgba(75, 75, 75, 0.7) !important;
+    }
   }
 }
