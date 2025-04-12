@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : " "
   avatar           : "/assets/images/memoji.png"
-  bio              : ""
+  bio              : " "
   # location         : "Seoul, Korea"
   # email            : "paulqwe1018@gmail.com"
   links:
-    - label: "Location"
+    - label: "Seoul, Korea"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "#"
     - label: "GitHub"
