@@ -17,8 +17,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  sidebar-category:
-  - title: "Categories"
-    children:
-      - title: "Python"
-        url: "/categories/python"
+sidebar-category:
+- title: "Categories"
+  children:
+    - title: "Python"
+      url: "/categories/python"
