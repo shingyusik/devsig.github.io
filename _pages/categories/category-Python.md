@@ -1,6 +1,8 @@
 ---
 title: "Python"
-layout: categories
-permalink: /categories/Python
-author_profile: true
+layout: archive
+permalink: /categories/python
 ---
+
+ {% assign posts = site.categories.python %}
+ {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

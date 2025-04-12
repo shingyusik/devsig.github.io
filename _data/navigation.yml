@@ -17,6 +17,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  # categories:
-  # - title: "Python"
-  #   url: /categories/python/
+  categories:
+  - title: "Python"
+    url: /categories/python
