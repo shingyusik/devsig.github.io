@@ -18,7 +18,100 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-- title: "Categories"
+- title: "Programming Languages"
   children:
     - title: "Python"
-      url: "/categories/python"
+      children:
+        - title: "Basic"
+          url: "/categories/python-basic"
+        - title: "Advanced"
+          url: "/categories/python-advanced"
+        - title: "Libraries"
+          url: "/categories/python-libraries"
+    - title: "C/C++"
+      children:
+        - title: "C Basic"
+          url: "/categories/c-basic"
+        - title: "C++ Basic"
+          url: "/categories/cpp-basic"
+        - title: "STL"
+          url: "/categories/cpp-stl"
+    - title: "CUDA"
+      children:
+        - title: "Basic"
+          url: "/categories/cuda-basic"
+        - title: "Advanced"
+          url: "/categories/cuda-advanced"
+        - title: "Optimization"
+          url: "/categories/cuda-optimization"
+
+- title: "Software Engineering"
+  children:
+    - title: "Design Pattern"
+      children:
+        - title: "Creational Patterns"
+          url: "/categories/design-pattern-creational"
+        - title: "Structural Patterns"
+          url: "/categories/design-pattern-structural"
+        - title: "Behavioral Patterns"
+          url: "/categories/design-pattern-behavioral"
+    - title: "Git"
+      children:
+        - title: "Basic Commands"
+          url: "/categories/git-basic"
+        - title: "Branching"
+          url: "/categories/git-branching"
+        - title: "Advanced"
+          url: "/categories/git-advanced"
+
+- title: "Computer Science"
+  children:
+    - title: "Algorithm"
+      children:
+        - title: "Sorting"
+          url: "/categories/algorithm-sorting"
+        - title: "Searching"
+          url: "/categories/algorithm-searching"
+        - title: "Graph"
+          url: "/categories/algorithm-graph"
+        - title: "Dynamic Programming"
+          url: "/categories/algorithm-dp"
+    - title: "Data Structure"
+      children:
+        - title: "Arrays & Lists"
+          url: "/categories/ds-arrays"
+        - title: "Trees"
+          url: "/categories/ds-trees"
+        - title: "Graphs"
+          url: "/categories/ds-graphs"
+    - title: "Database"
+      children:
+        - title: "SQL"
+          url: "/categories/database-sql"
+        - title: "NoSQL"
+          url: "/categories/database-nosql"
+        - title: "Database Design"
+          url: "/categories/database-design"
+
+- title: "AI & Machine Learning"
+  children:
+    - title: "Machine Learning"
+      children:
+        - title: "Supervised Learning"
+          url: "/categories/ml-supervised"
+        - title: "Unsupervised Learning"
+          url: "/categories/ml-unsupervised"
+        - title: "Reinforcement Learning"
+          url: "/categories/ml-reinforcement"
+    - title: "Deep Learning"
+      children:
+        - title: "Neural Networks"
+          url: "/categories/dl-neural-networks"
+        - title: "CNN"
+          url: "/categories/dl-cnn"
+        - title: "RNN"
+          url: "/categories/dl-rnn"
+        - title: "Transformers"
+          url: "/categories/dl-transformers"
+
+         

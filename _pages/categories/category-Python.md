@@ -1,8 +1,11 @@
 ---
-title: "Python"
+title: "Python Programming"
 layout: archive
-permalink: /categories/python
+permalink: /categories/python-basic
+author_profile: true
+sidebar:
+  nav: "sidebar-category"
 ---
 
- {% assign posts = site.categories.python %}
- {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+{% assign posts = site.categories['python-basic'] %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
