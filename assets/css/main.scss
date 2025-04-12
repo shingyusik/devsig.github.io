@@ -58,11 +58,17 @@ html {
     box-shadow: none !important;
 
     a {
-      color: #7a7a7a !important;
+      color: #999 !important;
+      transition: color 0.3s ease;
       
       &:hover {
-        color: #333 !important;
+        color: #fff !important;
       }
+    }
+
+    // Active link color
+    .active a {
+      color: #fff !important;
     }
   }
 }
