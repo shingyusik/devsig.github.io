@@ -514,8 +514,8 @@
     color: #fff;
     // color: rgb(54, 54, 54);
     font-size: $type-size-6;
-    // background: #00adb580;
-    background: rgba(0, 173, 181, 0.1);
+    background: rgba($primary-color, 0.1);
+    // background: #00adb5;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
   }
