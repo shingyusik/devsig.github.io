@@ -47,3 +47,14 @@ html {
         box-shadow: none;
     }
 }
+
+// Remove TOC border
+.toc {
+  border: none !important;
+  box-shadow: none !important;
+  
+  .toc__menu {
+    border: none !important;
+    box-shadow: none !important;
+  }
+}
