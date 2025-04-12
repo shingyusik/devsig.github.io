@@ -9,7 +9,6 @@ author_profile: true
   <p><i class="fas fa-fw fa-map-marker-alt"></i> Seoul, Korea</p>
   <p><i class="fab fa-fw fa-github"></i> <a href="https://github.com/shingyusik">https://github.com/shingyusik</a></p>
   <p><i class="fas fa-fw fa-envelope"></i> <a href="mailto:paulqwe1018@gmail.com">paulqwe1018@gmail.com</a></p>
-  <p><i class="fab fa-fw fa-instagram"></i> <a href="https://www.instagram.com/shingyusik/">https://www.instagram.com/shingyusik/</a></p>
 </div>
 
 <style>

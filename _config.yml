@@ -128,9 +128,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:paulqwe1018@gmail.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/shingyusik/"
 
 # Site Footer
 footer:
