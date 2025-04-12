@@ -511,7 +511,8 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    // color: #fff;
+    color: rgb(54, 54, 54);
     font-size: $type-size-6;
     background: $primary-color;
     border-start-start-radius: $border-radius;
