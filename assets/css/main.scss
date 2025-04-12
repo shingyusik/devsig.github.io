@@ -49,26 +49,32 @@ html {
 }
 
 // Remove TOC border and adjust color
-.toc {
-  border: none !important;
-  box-shadow: none !important;
-  
-  .toc__menu {
+.sidebar__right {
+  .toc {
+    background: transparent !important;
     border: none !important;
     box-shadow: none !important;
+    
+    .toc__menu {
+      background: transparent !important;
+      border: none !important;
+      box-shadow: none !important;
+      font-size: 0.8em;
 
-    a {
-      color: #999 !important;
-      transition: color 0.3s ease;
-      
-      &:hover {
-        color: #fff !important;
+      a {
+        color: rgba(255, 255, 255, 0.5) !important;
+        transition: color 0.2s ease-in-out;
+        
+        &:hover {
+          color: rgba(255, 255, 255, 0.9) !important;
+          text-decoration: none;
+        }
       }
-    }
 
-    // Active link color
-    .active a {
-      color: #fff !important;
+      // Active link color
+      .active a {
+        color: rgba(255, 255, 255, 0.9) !important;
+      }
     }
   }
 }
