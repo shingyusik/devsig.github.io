@@ -1,5 +1,5 @@
 ---
-title: "Hi all! I'm DevSig"
+title: "Hi all! I'm DevSik"
 permalink: /about/
 layout: single
 author_profile: false
