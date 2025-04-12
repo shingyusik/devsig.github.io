@@ -48,33 +48,11 @@ html {
     }
 }
 
-// Remove TOC border and adjust color
+// Remove TOC border
 .sidebar__right {
   .toc {
     background: transparent !important;
     border: none !important;
     box-shadow: none !important;
-    
-    .toc__menu {
-      background: transparent !important;
-      border: none !important;
-      box-shadow: none !important;
-      font-size: 0.8em;
-
-      a {
-        color: rgba(255, 255, 255, 0.5) !important;
-        transition: color 0.2s ease-in-out;
-        
-        &:hover {
-          color: rgba(255, 255, 255, 0.9) !important;
-          text-decoration: none;
-        }
-      }
-
-      // Active link color
-      .active a {
-        color: rgba(255, 255, 255, 0.9) !important;
-      }
-    }
   }
 }
