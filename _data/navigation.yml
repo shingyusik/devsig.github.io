@@ -21,31 +21,31 @@ sidebar-category:
 - title: "Programming Languages"
   children:
     - title: "Python"
-      url: "/categories/python"
+      url: "categories/python"
     - title: "C/C++"
-      url: "/categories/c"
+      url: "categories/c"
     - title: "CUDA"
-      url: "/categories/cuda"
+      url: "categories/cuda"
 
 - title: "Software Engineering"
   children:
     - title: "Git"
-      url: "/categories/git"
+      url: "categories/git"
     - title: "Design Pattern"
-      url: "/categories/design-pattern"
+      url: "categories/design-pattern"
 
 - title: "Computer Science"
   children:
     - title: "Algorithm"
-      url: "/categories/algorithm"
+      url: "categories/algorithm"
     - title: "Data Structure"
-      url: "/categories/data-structure"
+      url: "categories/data-structure"
     - title: "Database"
-      url: "/categories/database"
+      url: "categories/database"
 
 - title: "AI"
   children:
     - title: "Machine Learning"
-      url: "/categories/machine-learning"
+      url: "categories/machine-learning"
     - title: "Deep Learning"
-      url: "/categories/deep-learning"
+      url: "categories/deep-learning"
