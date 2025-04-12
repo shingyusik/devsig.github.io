@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "DevSik"
   avatar           : "/assets/images/memoji.png"
-  bio              : "DevSik의 개발 블로그"
-  location         : "Seoul, Korea"
-  email            : "paulqwe1018@gmail.com"
+  # bio              : "DevSik의 개발 블로그"
+  # location         : "Seoul, Korea"
+  # email            : "paulqwe1018@gmail.com"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
