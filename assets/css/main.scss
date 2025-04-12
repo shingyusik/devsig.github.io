@@ -51,8 +51,12 @@ html {
 // Remove TOC border
 .sidebar__right {
   .toc {
-    background: transparent !important;
+    background: rgb(75, 75, 75) !important;
     border: none !important;
     box-shadow: none !important;
+    
+    .toc__menu {
+      background: rgb(75, 75, 75) !important;
+    }
   }
 }
